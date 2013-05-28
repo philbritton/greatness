@@ -16,6 +16,11 @@ user interface can make or break an application.  use the right components and y
 ### Forms ###
 https://github.com/harvesthq/chosen 
 
+#### Data Entry ####
+- Address Autocomplete is essential, there are many ways to implement.
+	- http://matthaeuskrenn.com/addressautocomplete/
+
+
 ### Grids ###
 
 
