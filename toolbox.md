@@ -11,6 +11,11 @@ user interface can make or break an application.  use the right components and y
 - [Flat UI] (http://designmodo.com/demo/flat-ui/)
 - [Almost Flat UI] (http://websymphony.net/almost-flat-ui/)
 
+### Compiled CSS ###
+because sometimes CSS is for chumps.
+- Less
+- SASS
+
 ### Forms ###
 https://github.com/harvesthq/chosen 
 
@@ -71,16 +76,21 @@ Tower.js
 - Scala
 - Go Lang
 - Dart
+- Closure
 - Some crazy shit I don't even know about yet.
 
 ## Icing on The Cake ##
 The little things that can make a *big* difference.  These modules, packages and scripts are often overlooked and will never *make* or *break* your application.  This stuff is sometimes so bleeding edge you need to wear a leather jacket and smash jukeboxes after you find it.  Sometimes you stumble upon 'workflow'/'life-changers' that can only be describe in a meme (maybe a gif). 
+
 ![You Complete Me](//how-did-i-exist.png)
 ### User Engagement ###
+
 
 ### Image Processing ###
 
 https://transloadit.com/pricing
 
-as an outsider I cannot judge the functionality unless it effects me, but if it effects me, it has already gone too far.
+Disclaimer:  as an outsider I cannot judge a true developer's abilities, but I can judge antiquated frameworks, shoddy UI and lazy implementation.  Most of all I can judge the willingness to accept and passionately learn new workflows.  
+
+Things change and it's time to decide if you're a thing or a mere mortal.
 
